@@ -1,5 +1,8 @@
-# war-games
-Wargames exercises, aka me trying to learn how to crack binaries
+# Hacking Games
+![README's image header](binary-hacking.png)
+
+I wanted to learn more about security, so I decided to start doing hacking games exercises
+also known as CRACKMEs, CTFs, etc. apparently.
 
 # Summary
 * [WarGames by OverTheWire](#wargames)
