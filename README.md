@@ -6,6 +6,7 @@ also known as CRACKMEs, CTFs, etc. apparently.
 
 # Summary
 * [WarGames by OverTheWire](#wargames)
+* [LiveOverflow](#liveoverflow)
 
 # WarGames
 
@@ -27,3 +28,9 @@ To connect using SSH use: `ssh -p 2220 bandit0@bandit.labs.overthewire.org`
 1. `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
 1. `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
 1. `pIwrPrtPN36QITSp3EQaw936yaFoFgAB`
+
+# LiveOverflow
+* [OverTheWire's Binary Hacking playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+
+This isn't a proper hacking game exercises website, but I had a hard time finding MOOCs
+or courses about binary hacking and this guy's videos helped me a lot to get started.
