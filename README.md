@@ -1,4 +1,6 @@
-DXjZPULLxYr17uwoI01bNLQbtFemEgo7# Hacking Games ![README's image header](binary-hacking.png)
+# Hacking Games, Challenges, Security...
+
+![README's image header](binary-hacking.png)
 
 I wanted to learn more about security, so I decided to start doing hacking games
 exercises also known as CRACKMEs, CTFs, etc. apparently.
