@@ -20,8 +20,9 @@ There's no point for you to just copy-paste password into ssh connections, since
 you wouldn't learn a single thing so I guess I can just put them here. I need to
 save my progression somewhere anyway.
 
-### Login in To connect using SSH use: `ssh -p 2220
-bandit0@bandit.labs.overthewire.org`
+### Login in
+
+To connect using SSH use: `ssh -p 2220bandit0@bandit.labs.overthewire.org`
   > it becomes `ssh banditx@localhost` once you're already connected
 
 ### From level N to N + 1
