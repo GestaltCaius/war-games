@@ -12,7 +12,7 @@ exercises also known as CRACKMEs, CTFs, etc. apparently.
 # WarGames
 
 * [OverTheWire's website](http://overthewire.org)
-* current level: [from bandit 4 to 5](http://overthewire.org/wargames/bandit/bandit5.html)
+* current level: [bandit11@wargames](http://overthewire.org/wargames/bandit/bandit12.html)
 
 ## Cheat codes
 
